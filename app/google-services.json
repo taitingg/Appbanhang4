@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1054086414439",
+    "project_id": "testt-ec91f",
+    "storage_bucket": "testt-ec91f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054086414439:android:1e65db059d0f8624b754c2",
+        "android_client_info": {
+          "package_name": "com.example.appbanhang"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGGjT5jXIVuIDg_Wa-kxYBO8SekqBs20w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
